@@ -1,12 +1,11 @@
 # Sprint12-Project
 
-Sprint 12: Final Project
 
 <br>
 
 ## Project Description
 
-As a junior analyst at TTWC Consulting Agency (<i>TripleTen World Consultancy Consulting Agency</i>), they have assigned a significant project involving a special client: AtliQ Hardware. They are a leading computer hardware producer operating across India and have expanded internationally as well. AtliQ Hardware has asked TTWC Consulting Agency to conduct a comprehensive audit of their sales operations and to implement automation measures for their existing data processes.
+As a data analyst at TTWC Consulting Agency (<i>TripleTen World Consultancy Consulting Agency</i>), they have assigned a significant project involving a special client: AtliQ Hardware. They are a leading computer hardware producer operating across India and have expanded internationally as well. AtliQ Hardware has asked TTWC Consulting Agency to conduct a comprehensive audit of their sales operations and to implement automation measures for their existing data processes.
 
 The client is interested in three key business domains:
 
