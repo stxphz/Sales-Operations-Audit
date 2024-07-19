@@ -1,7 +1,3 @@
-# Sprint12-Project
-
-
-<br>
 
 ## Project Description
 
